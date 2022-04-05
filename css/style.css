@@ -34,3 +34,10 @@ section{
     text-align: left;
    
 }
+.foot{
+    background-color:rgb(3,29,36) ;
+    text-align: center;
+    height:200px;
+    padding-top:90px;
+    color:white;
+}
